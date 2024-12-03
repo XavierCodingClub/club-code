@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    fstream File("file.txt"); // copy paste given input into file called file.txt (or whatever u want to call it)
+    fstream File("filename.txt");
 
     int ans = 0;
     string line;
